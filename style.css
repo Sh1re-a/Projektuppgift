@@ -51,6 +51,12 @@ width: 100vw;
     align-items:center;
     justify-content: space-evenly;
     border: 1px solid black;
+    
+    
+}
+.contact{
+    text-decoration: none;
+    color: white;
 }
 .story{
     grid-column: 2/6;
